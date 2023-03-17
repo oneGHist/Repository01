@@ -1,1 +1,0 @@
-{"timestamp":"2023-03-15T07:26:38.000+0000","status":405,"error":"Method Not Allowed","message":"Request method 'POST' not supported","path":"/actuator/busrefresh"}
