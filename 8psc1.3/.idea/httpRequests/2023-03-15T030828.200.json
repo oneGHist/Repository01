@@ -1,0 +1,10 @@
+{
+  "name": "actuator",
+  "profiles": [
+    "busrefresh"
+  ],
+  "label": null,
+  "version": "750d139fffa1a33f2e37e33794f312408e59efb2",
+  "state": null,
+  "propertySources": []
+}

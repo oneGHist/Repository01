@@ -1,0 +1,7 @@
+{
+  "timestamp": "2023-03-15T08:05:18.096+0000",
+  "status": 415,
+  "error": "Unsupported Media Type",
+  "message": "Content type 'application/x-www-form-urlencoded;charset=GBK' not supported",
+  "path": "/actuator/bus-refresh"
+}
